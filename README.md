@@ -1,8 +1,8 @@
-# POO_Java
+# POO_C++
 
-* Esse projeto foi construído para disciplina de programação orientada a objetos 
-* Foi construído em Java, usando NeatBeans 17 para facilitar na implementação das interfaces
-* Além da implementação de interfaces, o projeto também possui leitura e escrita em arquivos
+* Esse projeto foi construído para disciplina de programação orientada a objetos
+* Foi construído primeiramente em C++, e posteriormente em Java, usando NeatBeans 17 para facilitar na implementação das interfaces
+* O projeto também possui leitura e escrita em arquivos
 
 Este trabalho possui como objetivo o desenvolvimento de um sistema de gestão de salas de aula.
 No sistema deverá ser possı́vel realizar o cadastro de alunos, de professores, de gestores, de cursos e das salas de aula.
